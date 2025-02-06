@@ -1,0 +1,8 @@
+{
+    "name": "Serial Data Logger",
+    "short_name": "SerialLogger",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff"
+}
